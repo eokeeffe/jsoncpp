@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -Werror=strict-aliasing -O3 -DNDEBUG   -shared -Wl,-soname,libjsoncpp.so.SOVERSION -o ../../lib/libjsoncpp.so.SOVERSION CMakeFiles/jsoncpp_lib.dir/json_reader.cpp.o CMakeFiles/jsoncpp_lib.dir/json_value.cpp.o CMakeFiles/jsoncpp_lib.dir/json_writer.cpp.o 
